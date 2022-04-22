@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = paul.limek@gmail.com
+	name = Paul L
